@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FinalProject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7adda298-07b8-43b1-bc6e-a2818b49da11" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/KahaniM/Game/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/KahaniM/Game/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/MainMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/Credits.fxml">
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/Rules.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/Apricot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/GameScene.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1113">
+              <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/Menu.fxml">
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/GameRules/Apricot.java" />
+        <option value="$PROJECT_DIR$/src/GameRules/Orange.java" />
+        <option value="$PROJECT_DIR$/src/GameRules/Watermelon.java" />
+        <option value="$PROJECT_DIR$/src/GameRules/Worms.java" />
+        <option value="$PROJECT_DIR$/src/GameRules/ExtraordinaryFriuts.java" />
+        <option value="$PROJECT_DIR$/src/FruitsScript/Fruits.java" />
+        <option value="$PROJECT_DIR$/src/FruitsScript/Apricot.java" />
+        <option value="$PROJECT_DIR$/src/FruitsScript/Orange.java" />
+        <option value="$PROJECT_DIR$/src/FruitsScript/Watermelon.java" />
+        <option value="$PROJECT_DIR$/src/FruitsScript/ExtraordinaryFriuts.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/Basket.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/sample.fxml.xsl" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/MoveBasket.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/ThreadManagement.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/Basket1.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/TimeThread.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/TimeThread.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/Timer.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/FruitsScript/YellowDiamond.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/FruitsScript/PurpleDiamond.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/FruitsScript/GreenDiamond.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/FruitsScript/BlueDiamond.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/FruitsScript/Fruits.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/FruitsScript/Orange.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/FruitsScript/Watermelon.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/WormsScript/Worms.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/WormsScript/TimeWorm.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/WormsScript/BasketWorm.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/FruitsScript/ExtraordinaryFriuts.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/Menu.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/Rules.fxml" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/RulesController.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/FileString.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/MainMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/WormsScript/HeartWorm.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/HighScoresManager.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/HighScores.fxml" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/Basket.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/TimerClock.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/FileStream.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/MenuController.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/GameScene.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/Game/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/Credits.fxml" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/GUI/Menu.fxml" />
+        <option value="$PROJECT_DIR$/src/com/KahaniM/FruitsScript/Apricot.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FinalProject-MenuAdded" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject-MenuAdded" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalProject-MenuAdded" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject-MenuAdded" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="settin&#9;ACTION&#9;WelcomeScreen.Settings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551252501719" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\FinalProject\FinalProject\src\com\KahaniM\GUI" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainMenu">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration name="GameScene" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KahaniM.GUI.GameScene" />
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KahaniM.Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.KahaniM.Game.Main" />
+      <module name="FinalProject" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KahaniM.GUI.MainMenu" />
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KahaniM.GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GameScene" />
+      <item itemvalue="Application.MainMenu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainMenu" />
+        <item itemvalue="Application.GameScene" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7adda298-07b8-43b1-bc6e-a2818b49da11" name="Default" comment="" />
+      <created>1498117817175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498117817175</updated>
+      <workItem from="1498590266224" duration="9087000" />
+      <workItem from="1498603507589" duration="975000" />
+      <workItem from="1498634314703" duration="165000" />
+      <workItem from="1498636614156" duration="8591000" />
+      <workItem from="1498647289220" duration="291000" />
+      <workItem from="1498668076428" duration="299000" />
+      <workItem from="1499078790262" duration="812000" />
+      <workItem from="1499085101525" duration="184000" />
+      <workItem from="1500705873091" duration="195000" />
+      <workItem from="1519976337740" duration="163000" />
+      <workItem from="1520395602954" duration="53000" />
+      <workItem from="1523211291357" duration="772000" />
+      <workItem from="1526739209752" duration="308000" />
+      <workItem from="1551251133753" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22198000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21888413" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32889965" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49356222" weight="0.32589838" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39905363" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5064378" side_tool="true" visible="true" weight="0.32589838" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329602" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32889965" />
+      <window_info anchor="bottom" id="Tool Output" order="11" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="12" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Properties" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/util/TimerTask.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/beans/property/StringProperty.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/beans/property/StringPropertyBase.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/beans/binding/StringExpression.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/beans/binding/ObjectExpression.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/scene/control/Labeled.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/scene/control/SkinBase.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/beans/property/ObjectPropertyBase.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/scene/Node.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/scene/Parent.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/javafx-src.zip!/javafx/beans/value/WeakChangeListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/WormsScript/Worm1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/util/LinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/Basket.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/orange_PNG769.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/background.png" />
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/YellowDiamond.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/PurpleDiamond.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/GreenDiamond.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/BlueDiamond.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/Fruits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/WormsScript/Worms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/WormsScript/Worm3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/Menu.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/Watermelon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/CreditsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/WormsScript/BasketWorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/Game/ThreadManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/WormsScript/TimeWorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/WormsScript/HeartWorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/HighScoresManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/Basket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/RulesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/Game/TimerClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/ExtraordinaryFriuts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="143" column="21" selection-start-line="143" selection-start-column="21" selection-end-line="143" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/Game/Basket1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/Game/FileStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/HighScores.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.KahaniM">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.KahaniM</OriginalElement>
+          <nodes>
+            <node x="0.0" y="931.0">com.KahaniM.Game.FileStream</node>
+            <node x="0.0" y="1137.0">com.KahaniM.GUI.HighScoresManager</node>
+            <node x="826.0" y="1137.0">com.KahaniM.GUI.CreditsManager</node>
+            <node x="217.0" y="1137.0">com.KahaniM.GUI.RulesController</node>
+            <node x="635.0" y="1137.0">com.KahaniM.GUI.MenuPics</node>
+            <node x="885.0" y="931.0">com.KahaniM.Game.ThreadManagement</node>
+            <node x="522.0" y="409.0">com.KahaniM.FruitsScript.Apricot</node>
+            <node x="33.0" y="453.0">com.KahaniM.GUI.GameScene.MyTimer</node>
+            <node x="875.0" y="637.0">com.KahaniM.GUI.Basket</node>
+            <node x="268.0" y="931.0">com.KahaniM.Game.Player</node>
+            <node x="878.0" y="409.0">com.KahaniM.FruitsScript.Orange</node>
+            <node x="494.0" y="815.0">com.KahaniM.WormsScript.TimeWorm</node>
+            <node x="590.5" y="0.0">com.KahaniM.FruitsScript.Fruits</node>
+            <node x="469.5" y="637.0">com.KahaniM.WormsScript.Worms</node>
+            <node x="672.0" y="815.0">com.KahaniM.WormsScript.BasketWorm</node>
+            <node x="700.0" y="409.0">com.KahaniM.FruitsScript.Watermelon</node>
+            <node x="0.0" y="637.0">com.KahaniM.GUI.MenuController</node>
+            <node x="428.0" y="1137.0">com.KahaniM.GUI.MainMenu</node>
+            <node x="280.0" y="387.0">com.KahaniM.FruitsScript.ExtraordinaryFriuts</node>
+            <node x="473.0" y="931.0">com.KahaniM.Game.Main</node>
+            <node x="0.0" y="0.0">com.KahaniM.GUI.GameScene</node>
+            <node x="673.0" y="931.0">com.KahaniM.Game.TimerClock</node>
+            <node x="252.0" y="804.0">com.KahaniM.WormsScript.HeartWorm</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.KahaniM.WormsScript.HeartWorm" target="com.KahaniM.WormsScript.Worms">
+              <point x="0.0" y="-36.5" />
+              <point x="363.0" y="779.0" />
+              <point x="504.0" y="779.0" />
+              <point x="-69.0" y="58.5" />
+            </edge>
+            <edge source="com.KahaniM.FruitsScript.ExtraordinaryFriuts" target="com.KahaniM.FruitsScript.Fruits">
+              <point x="0.0" y="-47.5" />
+              <point x="391.0" y="357.0" />
+              <point x="615.375" y="357.0" />
+              <point x="-74.625" y="168.5" />
+            </edge>
+            <edge source="com.KahaniM.WormsScript.BasketWorm" target="com.KahaniM.WormsScript.Worms">
+              <point x="0.0" y="-25.5" />
+              <point x="751.0" y="779.0" />
+              <point x="642.0" y="779.0" />
+              <point x="69.0" y="58.5" />
+            </edge>
+            <edge source="com.KahaniM.FruitsScript.Watermelon" target="com.KahaniM.FruitsScript.Fruits">
+              <point x="0.0" y="-25.5" />
+              <point x="779.0" y="367.0" />
+              <point x="714.875" y="367.0" />
+              <point x="24.875" y="168.5" />
+            </edge>
+            <edge source="com.KahaniM.FruitsScript.Orange" target="com.KahaniM.FruitsScript.Fruits">
+              <point x="0.0" y="-25.5" />
+              <point x="957.0" y="357.0" />
+              <point x="764.625" y="357.0" />
+              <point x="74.625" y="168.5" />
+            </edge>
+            <edge source="com.KahaniM.WormsScript.TimeWorm" target="com.KahaniM.WormsScript.Worms">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="58.5" />
+            </edge>
+            <edge source="com.KahaniM.GUI.GameScene.MyTimer" target="com.KahaniM.GUI.GameScene">
+              <point x="0.0" y="-69.5" />
+              <point x="0.0" y="201.5" />
+            </edge>
+            <edge source="com.KahaniM.FruitsScript.Apricot" target="com.KahaniM.FruitsScript.Fruits">
+              <point x="0.0" y="-25.5" />
+              <point x="601.0" y="367.0" />
+              <point x="665.125" y="367.0" />
+              <point x="-24.875" y="168.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="61.0" y="541.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KahaniM.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.KahaniM</OriginalElement>
+          <nodes>
+            <node x="0.0" y="931.0">com.KahaniM.Game.FileStream</node>
+            <node x="0.0" y="1137.0">com.KahaniM.GUI.HighScoresManager</node>
+            <node x="826.0" y="1137.0">com.KahaniM.GUI.CreditsManager</node>
+            <node x="217.0" y="1137.0">com.KahaniM.GUI.RulesController</node>
+            <node x="635.0" y="1137.0">com.KahaniM.GUI.MenuPics</node>
+            <node x="885.0" y="931.0">com.KahaniM.Game.ThreadManagement</node>
+            <node x="280.0" y="409.0">com.KahaniM.FruitsScript.Apricot</node>
+            <node x="33.0" y="453.0">com.KahaniM.GUI.GameScene.MyTimer</node>
+            <node x="875.0" y="637.0">com.KahaniM.GUI.Basket</node>
+            <node x="268.0" y="931.0">com.KahaniM.Game.Player</node>
+            <node x="458.0" y="409.0">com.KahaniM.FruitsScript.Orange</node>
+            <node x="252.0" y="815.0">com.KahaniM.WormsScript.TimeWorm</node>
+            <node x="526.5" y="0.0">com.KahaniM.FruitsScript.Fruits</node>
+            <node x="437.5" y="637.0">com.KahaniM.WormsScript.Worms</node>
+            <node x="672.0" y="815.0">com.KahaniM.WormsScript.BasketWorm</node>
+            <node x="636.0" y="409.0">com.KahaniM.FruitsScript.Watermelon</node>
+            <node x="0.0" y="637.0">com.KahaniM.GUI.MenuController</node>
+            <node x="428.0" y="1137.0">com.KahaniM.GUI.MainMenu</node>
+            <node x="814.0" y="387.0">com.KahaniM.FruitsScript.ExtraordinaryFriuts</node>
+            <node x="473.0" y="931.0">com.KahaniM.Game.Main</node>
+            <node x="0.0" y="0.0">com.KahaniM.GUI.GameScene</node>
+            <node x="673.0" y="931.0">com.KahaniM.Game.TimerClock</node>
+            <node x="430.0" y="804.0">com.KahaniM.WormsScript.HeartWorm</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.KahaniM.WormsScript.HeartWorm" target="com.KahaniM.WormsScript.Worms">
+              <point x="0.0" y="-36.5" />
+              <point x="0.0" y="58.5" />
+            </edge>
+            <edge source="com.KahaniM.FruitsScript.ExtraordinaryFriuts" target="com.KahaniM.FruitsScript.Fruits">
+              <point x="0.0" y="-47.5" />
+              <point x="925.0" y="357.0" />
+              <point x="700.625" y="357.0" />
+              <point x="74.625" y="168.5" />
+            </edge>
+            <edge source="com.KahaniM.WormsScript.BasketWorm" target="com.KahaniM.WormsScript.Worms">
+              <point x="0.0" y="-25.5" />
+              <point x="751.0" y="779.0" />
+              <point x="610.0" y="779.0" />
+              <point x="69.0" y="58.5" />
+            </edge>
+            <edge source="com.KahaniM.FruitsScript.Watermelon" target="com.KahaniM.FruitsScript.Fruits">
+              <point x="0.0" y="-25.5" />
+              <point x="715.0" y="367.0" />
+              <point x="650.875" y="367.0" />
+              <point x="24.875" y="168.5" />
+            </edge>
+            <edge source="com.KahaniM.FruitsScript.Orange" target="com.KahaniM.FruitsScript.Fruits">
+              <point x="0.0" y="-25.5" />
+              <point x="537.0" y="367.0" />
+              <point x="601.125" y="367.0" />
+              <point x="-24.875" y="168.5" />
+            </edge>
+            <edge source="com.KahaniM.WormsScript.TimeWorm" target="com.KahaniM.WormsScript.Worms">
+              <point x="0.0" y="-25.5" />
+              <point x="331.0" y="779.0" />
+              <point x="472.0" y="779.0" />
+              <point x="-69.0" y="58.5" />
+            </edge>
+            <edge source="com.KahaniM.GUI.GameScene.MyTimer" target="com.KahaniM.GUI.GameScene">
+              <point x="0.0" y="-69.5" />
+              <point x="0.0" y="201.5" />
+            </edge>
+            <edge source="com.KahaniM.FruitsScript.Apricot" target="com.KahaniM.FruitsScript.Fruits">
+              <point x="0.0" y="-25.5" />
+              <point x="359.0" y="357.0" />
+              <point x="551.375" y="357.0" />
+              <point x="-74.625" y="168.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="369.0" y="546.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/Game/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/Game/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/Credits.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/Rules.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/FruitsScript/Apricot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/GameScene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/Menu.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/KahaniM/GUI/MainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>FinalProject:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FinalProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

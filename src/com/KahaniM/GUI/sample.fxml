@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="576.0" prefWidth="1024.0" style="-fx-background-image: url('file:background.png');" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Pane prefHeight="51.0" prefWidth="1024.0" style="-fx-background-color:mediumSeaGreen">
+            <children>
+                <ImageView fx:id="heart3" fitHeight="40.0" fitWidth="40.0" layoutX="947.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@قلب%20سارا.png" />
+                    </image>
+                </ImageView>
+                <ImageView fx:id="heart2" fitHeight="40.0" fitWidth="40.0" layoutX="907.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@قلب%20سارا.png" />
+                    </image>
+                </ImageView>
+                <ImageView fx:id="heart1" fitHeight="40.0" fitWidth="40.0" layoutX="867.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@قلب%20سارا.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="40.0" fitWidth="40.0" layoutX="703.0" layoutY="12.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@orange_PNG769.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="40.0" fitWidth="40.0" layoutX="545.0" layoutY="11.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@watermelon_PNG2643.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="47.0" fitWidth="55.0" layoutX="393.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true" smooth="false">
+                    <image>
+                        <Image url="@apricots.png" />
+                    </image>
+                </ImageView>
+                <Label layoutX="14.0" layoutY="9.0" prefHeight="34.0" prefWidth="73.0" style="-fx-background-color:seaGreen" />
+                <Label layoutX="156.0" layoutY="11.0" text="Score">
+                    <font>
+                        <Font name="Magnificent" size="25.0" />
+                    </font>
+                </Label>
+            </children></Pane>
+    </children>
+</Pane>

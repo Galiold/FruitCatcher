@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="700.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.KahaniM.GUI.RulesController">
+    <children>
+        <ImageView fitHeight="718.0" fitWidth="548.0" layoutX="-24.0" layoutY="-6.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/menuBack1.png" />
+            </image>
+            <effect>
+                <GaussianBlur radius="3.25" />
+            </effect></ImageView>
+
+
+        <Button fx:id="btnBack" contentDisplay="CENTER" layoutX="179.0" layoutY="541.0" mnemonicParsing="false" onAction="#backToMainMenu" prefHeight="28.0" prefWidth="143.0" text="Back to Main Menu">
+            <font>
+                <Font name="Magnificent" size="15.0" />
+            </font>
+            <effect>
+                <Reflection />
+            </effect></Button>
+      <TextArea editable="false" layoutX="121.0" layoutY="89.0" prefHeight="438.0" prefWidth="288.0" text="This game is developed as the final project of an Advanced Programming course in Ferdowsi University of Mashhad, presented by Dr. S. Paydar in the second semester of year 2017.&#10;Jave 8 along with JavaFx tecnologies are used to develope this game.&#10;&#10;Programmers:&#10;&#10;                  M. Kahani&#10;                  S. Ghazi Tabatabaee&#10;                  A. Goldani" wrapText="true">
+         <font>
+            <Font name="Magnificent" size="19.0" />
+         </font>
+      </TextArea>
+
+
+
+    </children>
+</Pane>

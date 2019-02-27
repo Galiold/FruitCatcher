@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.GaussianBlur?>
+<?import javafx.scene.effect.Reflection?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="700.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.KahaniM.GUI.MenuController">
+    <children>
+        <ImageView fitHeight="718.0" fitWidth="548.0" layoutX="-24.0" layoutY="-6.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/menuBack1.png" />
+            </image>
+         <effect>
+            <GaussianBlur radius="3.25" />
+         </effect></ImageView>
+        <Label fx:id="label" alignment="CENTER" contentDisplay="CENTER" layoutX="105.0" layoutY="85.0" prefHeight="36.0" prefWidth="291.0" text="Fruit Basket" textFill="#20b94d" textOverrun="WORD_ELLIPSIS">
+            <font>
+                <Font name="Magnificent" size="41.0" />
+            </font>
+         <effect>
+            <Reflection />
+         </effect>
+        </Label>
+        <Button fx:id="btnNewGame" contentDisplay="CENTER" layoutX="192.0" layoutY="262.0" mnemonicParsing="false" onAction="#newGame" prefHeight="28.0" prefWidth="117.0" text="New Game!" textAlignment="CENTER">
+            <font>
+                <Font name="Magnificent" size="15.0" />
+            </font>
+         <effect>
+            <Reflection fraction="1.0" topOpacity="0.24" />
+         </effect></Button>
+        <TextField fx:id="nameField" layoutX="174.0" layoutY="194.0" prefHeight="25.0" prefWidth="153.0" promptText="Enter your name" />
+      <Button fx:id="btnHTP" contentDisplay="CENTER" layoutX="192.0" layoutY="336.0" mnemonicParsing="false" onAction="#howToPlay" prefHeight="28.0" prefWidth="117.0" text="How to Play!" textAlignment="CENTER">
+         <effect>
+            <Reflection fraction="1.0" topOpacity="0.24" />
+         </effect>
+         <font>
+            <Font name="Magnificent" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnHighScores" contentDisplay="CENTER" layoutX="192.0" layoutY="411.0" mnemonicParsing="false" onAction="#showHighScores" prefHeight="28.0" prefWidth="117.0" text="High Scores" textAlignment="CENTER">
+         <effect>
+            <Reflection fraction="1.0" topOpacity="0.24" />
+         </effect>
+         <font>
+            <Font name="Magnificent" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnCredits" contentDisplay="CENTER" layoutX="192.0" layoutY="492.0" mnemonicParsing="false" onAction="#showCredits" prefHeight="28.0" prefWidth="117.0" text="Credits" textAlignment="CENTER">
+         <effect>
+            <Reflection fraction="1.0" topOpacity="0.24" />
+         </effect>
+         <font>
+            <Font name="Magnificent" size="15.0" />
+         </font>
+      </Button>
+    </children>
+</Pane>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="700.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.KahaniM.GUI.RulesController">
+    <children>
+        <ImageView fitHeight="718.0" fitWidth="548.0" layoutX="-24.0" layoutY="-6.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/menuBack1.png" />
+            </image>
+         <effect>
+            <GaussianBlur radius="3.25" />
+         </effect></ImageView>
+
+
+        <Button fx:id="btnBack" contentDisplay="CENTER" layoutX="179.0" layoutY="541.0" mnemonicParsing="false" onAction="#backToMainMenu" prefHeight="28.0" prefWidth="143.0" text="Back to Main Menu">
+            <font>
+                <Font name="Magnificent" size="15.0" />
+            </font>
+         <effect>
+            <Reflection />
+         </effect></Button>
+        <ImageView fitHeight="35.0" fitWidth="60.0" layoutX="113.0" layoutY="83.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/perp.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="34.0" fitWidth="74.0" layoutX="113.0" layoutY="151.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/ora.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="34.0" fitWidth="60.0" layoutX="113.0" layoutY="219.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/blu.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="43.0" fitWidth="51.0" layoutX="122.0" layoutY="279.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/Diamond_Blue.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="43.0" fitWidth="43.0" layoutX="121.0" layoutY="343.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/Diamond_Green.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="43.0" fitWidth="43.0" layoutX="122.0" layoutY="409.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/Diamond_Purple.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="43.0" fitWidth="60.0" layoutX="121.0" layoutY="478.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@MenuPics/Diamond_Yellow.png" />
+            </image>
+        </ImageView>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="181.0" layoutY="75.0" prefHeight="51.0" prefWidth="206.0" text="Purple worm removes one of your hearts." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Magnificent" size="19.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="144.0" prefHeight="51.0" prefWidth="206.0" text="Yellow worm decreases the basket’s length for 10 seconds." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Magnificent" size="17.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="211.0" prefHeight="51.0" prefWidth="206.0" text="Blue worm freezes thebasket for 3 seconds." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Magnificent" size="19.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="273.0" prefHeight="51.0" prefWidth="206.0" text="Blue Diamond increases the basket’s length for 10 seconds." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Magnificent" size="17.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="339.0" prefHeight="51.0" prefWidth="206.0" text="Green diamond stops the worms for 10 seconds." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Magnificent" size="19.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="405.0" prefHeight="51.0" prefWidth="206.0" text="Purple diamond gives you 10 seconds additional time." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Magnificent" size="19.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="474.0" prefHeight="51.0" prefWidth="206.0" text="Yellow diamond gives you an additional heart." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Magnificent" size="19.0" />
+         </font>
+      </Label>
+
+
+    </children>
+</Pane>
